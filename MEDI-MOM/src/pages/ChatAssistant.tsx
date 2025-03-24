@@ -48,7 +48,7 @@ const ChatAssistant = () => {
   };
 
   // Define your API key and model parameters
-  const API_KEY = "AIzaSyB3Uk-HYx2btx26MCxP9FMZF8Q26YarhNw";
+  const API_KEY = "API KEY NOT INCLUDED DUE TO PRIVACY REASONS TO CHECK ADD API HERE" ;
   const MODEL_NAME = "gemini-1.5-flash";
 
   const formatResponse = (text: string) => {
