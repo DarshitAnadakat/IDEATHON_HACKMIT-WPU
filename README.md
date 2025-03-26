@@ -1,6 +1,6 @@
 # LIVE DEMO LINK 
 
-https://mo-ai-kashbeths-projects.vercel.app/
+ideathon-hackmit.vercel.app
 
 
 # AI Motherhood Companion
