@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/DarshitAnadakat/IDEATHON_HACKMIT-WPU/main/assets/banner.png" alt="AI Motherhood Companion Banner" width="600](https://res.cloudinary.com/dk0xzfaw4/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1742950495/Screenshot_2025-03-26_at_6.23.45_AM_lslugk.png)"/>
+  <img src="https://res.cloudinary.com/dk0xzfaw4/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1742950495/Screenshot_2025-03-26_at_6.23.45_AM_lslugk.png"/>
 </p>
 
 <h1 align="center">AI Motherhood Companion</h1>
