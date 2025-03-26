@@ -24,8 +24,8 @@
 ## Technology Stack
 
 - **Frontend**: React/Next.js, TypeScript, Tailwind CSS, Framer Motion (for animations)
-- **Backend**: [Specify your backend technologies, e.g., Node.js, Express]
-- **Database**: [Specify your database, e.g., MongoDB, PostgreSQL]
+- **Backend**: 
+- **Database**: 
 - **Deployment**: Vercel
 
 ## Getting Started
