@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dk0xzfaw4/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1742950495/Screenshot_2025-03-26_at_6.23.45_AM_lslugk.png"/>
+  <img src="https://res.cloudinary.com/dk0xzfaw4/image/upload/v1742950495/Screenshot_2025-03-26_at_6.23.45_AM_lslugk.png"/>
 </p>
 
 <h1 align="center">AI Motherhood Companion</h1>
