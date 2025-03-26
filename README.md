@@ -5,7 +5,7 @@
 <h1 align="center">AI Motherhood Companion</h1>
 
 <p align="center">
-  <a href="https://ideathon-hackmit.vercel.app/" target="_blank">
+  <a href="hvercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen" alt="Live Demo">
   </a>
 </p>
